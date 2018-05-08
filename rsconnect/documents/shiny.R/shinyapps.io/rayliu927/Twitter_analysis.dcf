@@ -1,0 +1,12 @@
+name: Twitter_analysis
+title: Twitter_analysis
+username:
+account: rayliu927
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 339066
+bundleId: 1361550
+url: https://rayliu927.shinyapps.io/Twitter_analysis/
+when: 1525749398.46196
+asMultiple: FALSE
+asStatic: FALSE
